@@ -1,0 +1,27 @@
+.main-box{
+    border: 2px solid red;
+    width: 100vw;
+    height: 15vh;
+    margin-top: 5vh;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.koding-box{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.list-box{
+    display: flex;
+    width: 30%;
+}
+.box{
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
